@@ -1,4 +1,4 @@
-# ClashCross
+# VpnFly
 
 <p align="center"><img src="docs/screenshot/app_icon.png" style="border-radius: 50%" width="150px"/></p>
 
@@ -32,19 +32,19 @@ directly. [https://github.com/flutterav/vpnfly/releases](https://github.com/flut
 ## Linux
 
 - snap:
-    - `snap install clashcross`
+    - `snap install vpnfly`
     - <a href="https://snapcraft.io/vpnfly">
       <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-white.svg" />
       </a>
 - deb:
     - `sudo apt install libappindicator3-dev`
     - <p>then</p>
-    - `sudo dpkg -i clashcross.deb`
+    - `sudo dpkg -i vpnfly.deb`
 
 ## Windows
 
 Please download .exe setup
-directly. [https://github.com/shipinbaoku/ClashCross/releases](https://github.com/flutterav/vpnfly/releases)
+directly. [https://github.com//flutterav/vpnfly/releases](https://github.com/flutterav/vpnfly/releases)
 
 
 # Screen
